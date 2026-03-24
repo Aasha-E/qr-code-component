@@ -1,0 +1,40 @@
+body {
+    background-color: #D5E1EF;
+    font-family:"Outfit";
+    color: #68778D;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+div.card {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+    border-radius: 20px;
+    max-width: 320px;
+    
+}
+
+img {
+    width: 288px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 22px;
+    color: #1F314F;
+    line-height: 120%;
+    padding-top: 24px;
+    width: 256px;
+    margin: 0;
+}
+
+p {
+    width: 256px;
+    margin: 0;
+    padding: 16px;
+}
